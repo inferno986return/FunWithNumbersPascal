@@ -2,7 +2,7 @@
 ## Overview
 A little sample commandline program I made in college years ago with the Pascal programming language.
 
-The code itself generates 10 rather easy multiplatication questions and scores them accordingly.
+The code itself generates 10 rather easy multiplication questions and scores them accordingly.
 
 GitHub has a plethora of sample code to work with and I am happy to make a small contribution.
 
